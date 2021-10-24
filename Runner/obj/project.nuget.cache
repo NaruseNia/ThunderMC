@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ea7I7v022d1q9/aE4WqRfqEL+N43ffBSP6sYPdm2KDWuGimYMcZZsfzjU5uOhJgD3tYyQLUQS+9O3UoaJMDtPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\notsh\\projects\\vs2019\\Thunder\\Runner\\Runner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\notsh\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\notsh\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\notsh\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

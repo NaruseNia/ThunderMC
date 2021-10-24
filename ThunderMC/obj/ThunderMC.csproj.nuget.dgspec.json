@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\notsh\\projects\\vs2019\\Thunder\\ThunderMC\\ThunderMC.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\notsh\\projects\\vs2019\\Thunder\\ThunderMC\\ThunderMC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\notsh\\projects\\vs2019\\Thunder\\ThunderMC\\ThunderMC.csproj",
+        "projectName": "ThunderMC",
+        "projectPath": "C:\\Users\\notsh\\projects\\vs2019\\Thunder\\ThunderMC\\ThunderMC.csproj",
+        "packagesPath": "C:\\Users\\notsh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\notsh\\projects\\vs2019\\Thunder\\ThunderMC\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\notsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Prism.Unity": {
+              "target": "Package",
+              "version": "[8.0.0.1909, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\notsh\projects\vs2019\Thunder\Runner\obj\Debug\net5.0\Runner.csproj.AssemblyReference.cache
+C:\Users\notsh\projects\vs2019\Thunder\Runner\obj\Debug\net5.0\Runner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\notsh\projects\vs2019\Thunder\Runner\obj\Debug\net5.0\Runner.csproj.CoreCompileInputs.cache
+C:\Users\notsh\projects\vs2019\Thunder\Runner\bin\Debug\net5.0\Runner.exe
+C:\Users\notsh\projects\vs2019\Thunder\Runner\bin\Debug\net5.0\Runner.dll.config
+C:\Users\notsh\projects\vs2019\Thunder\Runner\bin\Debug\net5.0\Runner.deps.json
+C:\Users\notsh\projects\vs2019\Thunder\Runner\bin\Debug\net5.0\Runner.runtimeconfig.json
+C:\Users\notsh\projects\vs2019\Thunder\Runner\bin\Debug\net5.0\Runner.runtimeconfig.dev.json
+C:\Users\notsh\projects\vs2019\Thunder\Runner\bin\Debug\net5.0\Runner.dll
+C:\Users\notsh\projects\vs2019\Thunder\Runner\bin\Debug\net5.0\ref\Runner.dll
+C:\Users\notsh\projects\vs2019\Thunder\Runner\bin\Debug\net5.0\Runner.pdb
+C:\Users\notsh\projects\vs2019\Thunder\Runner\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\notsh\projects\vs2019\Thunder\Runner\obj\Debug\net5.0\Runner.dll
+C:\Users\notsh\projects\vs2019\Thunder\Runner\obj\Debug\net5.0\ref\Runner.dll
+C:\Users\notsh\projects\vs2019\Thunder\Runner\obj\Debug\net5.0\Runner.pdb
+C:\Users\notsh\projects\vs2019\Thunder\Runner\obj\Debug\net5.0\Runner.genruntimeconfig.cache

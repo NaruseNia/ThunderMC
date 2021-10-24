@@ -1,0 +1,9 @@
+C:\Users\notsh\projects\vs2019\Thunder\Runner\bin\Debug\Runner.exe.config
+C:\Users\notsh\projects\vs2019\Thunder\Runner\bin\Debug\Runner.exe
+C:\Users\notsh\projects\vs2019\Thunder\Runner\bin\Debug\Runner.pdb
+C:\Users\notsh\projects\vs2019\Thunder\Runner\obj\Debug\Runner.csproj.AssemblyReference.cache
+C:\Users\notsh\projects\vs2019\Thunder\Runner\obj\Debug\Runner.csproj.CoreCompileInputs.cache
+C:\Users\notsh\projects\vs2019\Thunder\Runner\obj\Debug\Runner.exe
+C:\Users\notsh\projects\vs2019\Thunder\Runner\obj\Debug\Runner.pdb
+C:\Users\notsh\projects\vs2019\Thunder\Runner\bin\Debug\Newtonsoft.Json.dll
+C:\Users\notsh\projects\vs2019\Thunder\Runner\bin\Debug\Newtonsoft.Json.xml
