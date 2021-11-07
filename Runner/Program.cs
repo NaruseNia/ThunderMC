@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Linq;
+using static Runner.MinecraftUtil;
 
 namespace Runner
 {
@@ -28,9 +29,9 @@ namespace Runner
             GetOptionNumber();
         }
 
-        private static MinecraftUtil.MinecraftVersionType SelectType()
+        private static MinecraftVersionType SelectType()
         {
-            MinecraftUtil.MinecraftVersionType type;
+            MinecraftVersionType type;
 
             _log.Init().Add("Select option in below ").Add("(1-5)", ConsoleColor.White).Newline(2).Put();
             _log.Init().Add("1. Release Only").Newline().Put();
@@ -39,13 +40,13 @@ namespace Runner
             _log.Init().Add("(1-3)>", ConsoleColor.White).Put();
             string input = Console.ReadLine();
             uint option = 0;
-            if (!Validate(input, ref option)) return MinecraftUtil.MinecraftVersionType.Both;
+            if (!Validate(input, ref option)) return MinecraftVersionType.Both;
             type = option switch
             {
-                1 => MinecraftUtil.MinecraftVersionType.Release,
-                2 => MinecraftUtil.MinecraftVersionType.Snapshot,
-                3 => MinecraftUtil.MinecraftVersionType.Both,
-                _ => MinecraftUtil.MinecraftVersionType.Both
+                1 => MinecraftVersionType.Release,
+                2 => MinecraftVersionType.Snapshot,
+                3 => MinecraftVersionType.Both,
+                _ => MinecraftVersionType.Both
             };
 
             return type;
@@ -79,7 +80,7 @@ namespace Runner
         {
             Console.Clear();
 
-            MinecraftUtil.MinecraftVersionType type = SelectType();
+            MinecraftVersionType type = SelectType();
             Console.WriteLine(type);
 
             Console.Clear();
@@ -92,7 +93,7 @@ namespace Runner
             _log.Init().Add("Waiting...", ConsoleColor.DarkGray).Newline(2).Put();
 
             DateTime startTime = DateTime.Now;
-            List<string> res = await MinecraftUtil.GetAllVersionsAsync(type);
+            List<string> res = await GetAllVersionsAsync(type);
             TimeSpan done = DateTime.Now - startTime;
 
             _log.Init().Add("Responce : ").Newline().Put();
@@ -105,13 +106,13 @@ namespace Runner
         {
             Console.Clear();
 
-            MinecraftUtil.MinecraftVersionType type = SelectType();
+            MinecraftVersionType type = SelectType();
 
             Console.Clear();
             _log.Init().Add("Waiting...", ConsoleColor.DarkGray).Newline(2).Put();
 
             DateTime startTime = DateTime.Now;
-            string res = await MinecraftUtil.GetLatestVersionAsync(type);
+            string res = await GetLatestVersionAsync(type);
             TimeSpan done = DateTime.Now - startTime;
 
             _log.Init().Add("Responce : ").Newline().Add($"{res}", ConsoleColor.Cyan).Newline(2).Put();

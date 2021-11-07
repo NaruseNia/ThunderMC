@@ -12,7 +12,7 @@ namespace ThunderMC
     {
         protected override Window CreateShell()
         {
-            return Container.Resolve<MainWindow>();
+            return Container.Resolve<Splash>();
         }
 
         protected override void RegisterTypes(IContainerRegistry containerRegistry)
