@@ -1,6 +1,6 @@
-Runner/bin/
-Runner/obj/
-ThunderMC/bin/
-ThunderMC/obj/
+/Runner/bin/
+/Runner/obj/
+/ThunderMC/bin/
+/ThunderMC/obj/
 
 *.exe
