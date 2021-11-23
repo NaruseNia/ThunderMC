@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ErauwTuL+mFH1gcfFGVBqGp+//637r490PAUVcrSD8A1rdVpz7Xa1nB3V0HuhVf9CY0JxXeR2TjvhaPUV7WK1g==",
+  "dgSpecHash": "xjFLgtMx7C/o9BL9ZaICX1aMm0cLWnFW5XHbXWO+WSRvafw5TtHev93LZbmPubxE0OV+9yWe1YFPCxrfIEolPg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\notsh\\projects\\vs2019\\Thunder\\ThunderMC\\ThunderMC.csproj",
+  "projectFilePath": "C:\\Users\\notsh\\projects\\ThunderMC\\ThunderMC\\ThunderMC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\notsh\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
     "C:\\Users\\notsh\\.nuget\\packages\\prism.core\\8.0.0.1909\\prism.core.8.0.0.1909.nupkg.sha512",

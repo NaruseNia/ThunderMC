@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\notsh\\projects\\vs2019\\Thunder\\Runner\\Runner.csproj": {}
+    "C:\\Users\\notsh\\projects\\ThunderMC\\Runner\\Runner.csproj": {}
   },
   "projects": {
-    "C:\\Users\\notsh\\projects\\vs2019\\Thunder\\Runner\\Runner.csproj": {
+    "C:\\Users\\notsh\\projects\\ThunderMC\\Runner\\Runner.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\notsh\\projects\\vs2019\\Thunder\\Runner\\Runner.csproj",
+        "projectUniqueName": "C:\\Users\\notsh\\projects\\ThunderMC\\Runner\\Runner.csproj",
         "projectName": "Runner",
-        "projectPath": "C:\\Users\\notsh\\projects\\vs2019\\Thunder\\Runner\\Runner.csproj",
+        "projectPath": "C:\\Users\\notsh\\projects\\ThunderMC\\Runner\\Runner.csproj",
         "packagesPath": "C:\\Users\\notsh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\notsh\\projects\\vs2019\\Thunder\\Runner\\obj\\",
+        "outputPath": "C:\\Users\\notsh\\projects\\ThunderMC\\Runner\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Syncfusion\\Essential Studio\\WPF\\19.3.0.43\\ToolboxNuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\notsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Syncfusion Toolbox for WPF.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -74,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,28 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\notsh\\projects\\vs2019\\Thunder\\ThunderMC\\ThunderMC.csproj": {}
+    "C:\\Users\\notsh\\projects\\ThunderMC\\ThunderMC\\ThunderMC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\notsh\\projects\\vs2019\\Thunder\\ThunderMC\\ThunderMC.csproj": {
+    "C:\\Users\\notsh\\projects\\ThunderMC\\ThunderMC\\ThunderMC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\notsh\\projects\\vs2019\\Thunder\\ThunderMC\\ThunderMC.csproj",
+        "projectUniqueName": "C:\\Users\\notsh\\projects\\ThunderMC\\ThunderMC\\ThunderMC.csproj",
         "projectName": "ThunderMC",
-        "projectPath": "C:\\Users\\notsh\\projects\\vs2019\\Thunder\\ThunderMC\\ThunderMC.csproj",
+        "projectPath": "C:\\Users\\notsh\\projects\\ThunderMC\\ThunderMC\\ThunderMC.csproj",
         "packagesPath": "C:\\Users\\notsh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\notsh\\projects\\vs2019\\Thunder\\ThunderMC\\obj\\",
+        "outputPath": "C:\\Users\\notsh\\projects\\ThunderMC\\ThunderMC\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Syncfusion\\Essential Studio\\WPF\\19.3.0.43\\ToolboxNuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\notsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Syncfusion Toolbox for WPF.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net48"

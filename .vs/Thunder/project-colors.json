@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "24834ef0-886d-44b1-9391-c583598d5fe1": {
+      "ProjectGuid": "24834ef0-886d-44b1-9391-c583598d5fe1",
+      "DisplayName": "Runner",
+      "ColorIndex": 0
+    },
+    "d7324149-a5ce-41b4-a635-b815e51ae75e": {
+      "ProjectGuid": "d7324149-a5ce-41b4-a635-b815e51ae75e",
+      "DisplayName": "ThunderCLI",
+      "ColorIndex": 1
+    },
+    "95d2cbbb-37f6-4fa8-94b2-9280560b01df": {
+      "ProjectGuid": "95d2cbbb-37f6-4fa8-94b2-9280560b01df",
+      "DisplayName": "ThunderCLI",
+      "ColorIndex": 2
+    },
+    "bc3bd2ec-9a21-40c2-b5c7-b7b5402d46f8": {
+      "ProjectGuid": "bc3bd2ec-9a21-40c2-b5c7-b7b5402d46f8",
+      "DisplayName": "GetOpt",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "その他のファイル",
+      "ColorIndex": -1
+    },
+    "3950d88b-a5fd-4f69-b545-6aabcd6c2921": {
+      "ProjectGuid": "3950d88b-a5fd-4f69-b545-6aabcd6c2921",
+      "DisplayName": "Logger",
+      "ColorIndex": 4
+    },
+    "608130a3-6702-4b64-a7fc-43db217b30c0": {
+      "ProjectGuid": "608130a3-6702-4b64-a7fc-43db217b30c0",
+      "DisplayName": "Testserver",
+      "ColorIndex": 5
+    },
+    "e0f335b0-e591-4454-a11a-c21b5601cce8": {
+      "ProjectGuid": "e0f335b0-e591-4454-a11a-c21b5601cce8",
+      "DisplayName": "ThunderMC",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

@@ -1,0 +1,12 @@
+C:\Users\notsh\projects\ThunderMC\Logger\bin\Debug\net6.0\Logger.deps.json
+C:\Users\notsh\projects\ThunderMC\Logger\bin\Debug\net6.0\Logger.dll
+C:\Users\notsh\projects\ThunderMC\Logger\bin\Debug\net6.0\ref\Logger.dll
+C:\Users\notsh\projects\ThunderMC\Logger\bin\Debug\net6.0\Logger.pdb
+C:\Users\notsh\projects\ThunderMC\Logger\obj\Debug\net6.0\Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\notsh\projects\ThunderMC\Logger\obj\Debug\net6.0\Logger.AssemblyInfoInputs.cache
+C:\Users\notsh\projects\ThunderMC\Logger\obj\Debug\net6.0\Logger.AssemblyInfo.cs
+C:\Users\notsh\projects\ThunderMC\Logger\obj\Debug\net6.0\Logger.csproj.CoreCompileInputs.cache
+C:\Users\notsh\projects\ThunderMC\Logger\obj\Debug\net6.0\Logger.dll
+C:\Users\notsh\projects\ThunderMC\Logger\obj\Debug\net6.0\ref\Logger.dll
+C:\Users\notsh\projects\ThunderMC\Logger\obj\Debug\net6.0\Logger.pdb
+C:\Users\notsh\projects\ThunderMC\Logger\obj\Debug\net6.0\Logger.csproj.AssemblyReference.cache
